@@ -6,3 +6,7 @@ In this project we understood how Medllion architecture used to create ETL proce
 --- Creating DB ---
 1. Created seprate DB for each layer
 
+---- Creating tables in bronze layer -----
+
+
+
