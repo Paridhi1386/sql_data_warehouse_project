@@ -11,5 +11,5 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 
 
-<img src="docs/Home page.png" alt="Info Page" width="800" height="800">
+<img src="docs/Data archtmodel1.png" alt="Info Page" width="800" height="800">
 
