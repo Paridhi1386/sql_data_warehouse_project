@@ -1,12 +1,6 @@
 # sql_data_warehouse_project
 Building a modern data warehouse with mysql including ETL  , Data Modeling and analytics
 
-In this project we understood how Medllion architecture used to create ETL process.
-
---- Creating DB ---
-1. Created seprate DB for each layer
-
----- Creating tables in bronze layer -----
-
-
+**Welcome to the Data Warehouse and Analytics Project repository!** 🚀
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
