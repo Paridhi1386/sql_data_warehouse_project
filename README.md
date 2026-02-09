@@ -21,20 +21,15 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 **📖 Project Overview**
 
-**This project involves:**
+This project involves:
 
-**Data Architecture:** 
+**Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 
-Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 
-**ETL Pipelines:** 
+**ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
 
-Extracting, transforming, and loading data from source systems into the warehouse.
 
-**Data Modeling:** 
+**Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
 
-Developing fact and dimension tables optimized for analytical queries.
 
-**Analytics & Reporting:** 
-
-Creating SQL-based reports and dashboards for actionable insights.
+**Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
