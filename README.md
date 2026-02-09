@@ -21,6 +21,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 
 
+
+
 **📖 Project Overview**
 
 This project involves:
@@ -35,6 +37,8 @@ This project involves:
 
 
 **4.Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
+
+
 
 
 
