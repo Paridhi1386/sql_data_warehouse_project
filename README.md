@@ -9,3 +9,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
+
+
+<img src="docs/Home page.png" alt="Info Page" width="800" height="800">
+
