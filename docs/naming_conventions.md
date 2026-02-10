@@ -71,7 +71,6 @@ This document outlines the naming conventions used for schemas, tables, views, c
   - Example: `dwh_load_date` → System-generated column used to store the date when the record was loaded.
  
 ## **Stored Procedure**
-
 - All stored procedures used for loading data must follow the naming pattern:
 - **`load_<layer>`**.
   
